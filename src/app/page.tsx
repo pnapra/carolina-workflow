@@ -68,7 +68,7 @@ export default function Home() {
           </p>
 
           <a
-            href="https://tally.so"
+            href="https://tally.so/r/RGkYKv"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-lg bg-white px-6 py-3 text-sm font-semibold text-slate-900 hover:bg-slate-100"
@@ -76,9 +76,6 @@ export default function Home() {
             Take the Survey
           </a>
 
-          <p className="mt-4 text-sm text-slate-400">
-            Replace this button link with your Tally, Google Form, or Typeform link.
-          </p>
         </div>
       </section>
 
